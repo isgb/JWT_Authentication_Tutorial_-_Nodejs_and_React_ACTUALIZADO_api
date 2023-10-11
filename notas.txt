@@ -1,0 +1,16 @@
+login-api:
+
+npm init -y
+npm install express cors nodemon
+
+package.json
+.........
+"scripts": {
+    "start": "nodemon index.js",
+................
+http://localhost:5000/api/login
+http://localhost:5000/api/users/1
+
+npm i jsonwebtoken
+
+JWT Authentication Tutorial - Node.js and React - YouTube 37:03 
