@@ -14,3 +14,5 @@ http://localhost:5000/api/users/1
 npm i jsonwebtoken
 
 JWT Authentication Tutorial - Node.js and React - YouTube 37:03 
+
+https://www.youtube.com/watch?v=bOSHDbHD_6Q
